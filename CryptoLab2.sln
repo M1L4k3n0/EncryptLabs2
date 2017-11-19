@@ -8,6 +8,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab2.2-RCA", "Lab2.2-RCA\RS
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Lab2.2-Shamir", "Lab2.2-Shamir\Lab2.2-Shamir\Lab2.2-Shamir.vcxproj", "{29212888-54AF-42D6-9FBC-FE7E6F89A8AE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab2.3(2)", "Lab2.3(2)\Lab2.3(2).csproj", "{FEB3A97B-4673-4FEC-9D53-77E04DB1D2ED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab2.3(3)", "Lab2.3(3)\Lab2.3(3).csproj", "{45BB3390-7D25-4020-840E-5D5920152E33}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -48,6 +52,26 @@ Global
 		{29212888-54AF-42D6-9FBC-FE7E6F89A8AE}.Release|x64.Build.0 = Release|x64
 		{29212888-54AF-42D6-9FBC-FE7E6F89A8AE}.Release|x86.ActiveCfg = Release|Win32
 		{29212888-54AF-42D6-9FBC-FE7E6F89A8AE}.Release|x86.Build.0 = Release|Win32
+		{FEB3A97B-4673-4FEC-9D53-77E04DB1D2ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEB3A97B-4673-4FEC-9D53-77E04DB1D2ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEB3A97B-4673-4FEC-9D53-77E04DB1D2ED}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{FEB3A97B-4673-4FEC-9D53-77E04DB1D2ED}.Debug|x64.Build.0 = Debug|Any CPU
+		{FEB3A97B-4673-4FEC-9D53-77E04DB1D2ED}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{FEB3A97B-4673-4FEC-9D53-77E04DB1D2ED}.Debug|x86.Build.0 = Debug|Any CPU
+		{FEB3A97B-4673-4FEC-9D53-77E04DB1D2ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEB3A97B-4673-4FEC-9D53-77E04DB1D2ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FEB3A97B-4673-4FEC-9D53-77E04DB1D2ED}.Release|x64.ActiveCfg = Release|Any CPU
+		{FEB3A97B-4673-4FEC-9D53-77E04DB1D2ED}.Release|x64.Build.0 = Release|Any CPU
+		{FEB3A97B-4673-4FEC-9D53-77E04DB1D2ED}.Release|x86.ActiveCfg = Release|Any CPU
+		{FEB3A97B-4673-4FEC-9D53-77E04DB1D2ED}.Release|x86.Build.0 = Release|Any CPU
+		{45BB3390-7D25-4020-840E-5D5920152E33}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{45BB3390-7D25-4020-840E-5D5920152E33}.Debug|x64.ActiveCfg = Debug|x86
+		{45BB3390-7D25-4020-840E-5D5920152E33}.Debug|x86.ActiveCfg = Debug|x86
+		{45BB3390-7D25-4020-840E-5D5920152E33}.Debug|x86.Build.0 = Debug|x86
+		{45BB3390-7D25-4020-840E-5D5920152E33}.Release|Any CPU.ActiveCfg = Release|x86
+		{45BB3390-7D25-4020-840E-5D5920152E33}.Release|x64.ActiveCfg = Release|x86
+		{45BB3390-7D25-4020-840E-5D5920152E33}.Release|x86.ActiveCfg = Release|x86
+		{45BB3390-7D25-4020-840E-5D5920152E33}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

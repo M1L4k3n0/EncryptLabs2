@@ -1,0 +1,7 @@
+R:\Ucheba\zhahist\Labs2.2\EncryptLabs2\Lab2.3(2)\bin\Debug\DS-GOST-34.10-2012.exe.config
+R:\Ucheba\zhahist\Labs2.2\EncryptLabs2\Lab2.3(2)\bin\Debug\DS-GOST-34.10-2012.exe
+R:\Ucheba\zhahist\Labs2.2\EncryptLabs2\Lab2.3(2)\bin\Debug\DS-GOST-34.10-2012.pdb
+R:\Ucheba\zhahist\Labs2.2\EncryptLabs2\Lab2.3(2)\obj\Debug\Lab2.3(2).csprojResolveAssemblyReference.cache
+R:\Ucheba\zhahist\Labs2.2\EncryptLabs2\Lab2.3(2)\obj\Debug\Lab2.3(2).csproj.CoreCompileInputs.cache
+R:\Ucheba\zhahist\Labs2.2\EncryptLabs2\Lab2.3(2)\obj\Debug\DS-GOST-34.10-2012.exe
+R:\Ucheba\zhahist\Labs2.2\EncryptLabs2\Lab2.3(2)\obj\Debug\DS-GOST-34.10-2012.pdb

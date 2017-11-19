@@ -1,0 +1,2 @@
+C:\Documents and Settings\Abylay\My Documents\Visual Studio 2010\Projects\RSA2\RSA\obj\x86\Debug\RSA.exe
+C:\Documents and Settings\Abylay\My Documents\Visual Studio 2010\Projects\RSA2\RSA\obj\x86\Debug\RSA.pdb
