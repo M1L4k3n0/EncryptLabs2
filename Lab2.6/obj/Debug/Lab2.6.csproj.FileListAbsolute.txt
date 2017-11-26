@@ -1,0 +1,9 @@
+R:\Ucheba\zhahist\Labs2.2\EncryptLabs2\Lab2.6\bin\Debug\PR2_6.exe.config
+R:\Ucheba\zhahist\Labs2.2\EncryptLabs2\Lab2.6\bin\Debug\PR2_6.exe
+R:\Ucheba\zhahist\Labs2.2\EncryptLabs2\Lab2.6\bin\Debug\PR2_6.pdb
+R:\Ucheba\zhahist\Labs2.2\EncryptLabs2\Lab2.6\obj\Debug\Lab2.6.csprojResolveAssemblyReference.cache
+R:\Ucheba\zhahist\Labs2.2\EncryptLabs2\Lab2.6\obj\Debug\PR2_6.Form1.resources
+R:\Ucheba\zhahist\Labs2.2\EncryptLabs2\Lab2.6\obj\Debug\Lab2.6.csproj.GenerateResource.Cache
+R:\Ucheba\zhahist\Labs2.2\EncryptLabs2\Lab2.6\obj\Debug\Lab2.6.csproj.CoreCompileInputs.cache
+R:\Ucheba\zhahist\Labs2.2\EncryptLabs2\Lab2.6\obj\Debug\PR2_6.exe
+R:\Ucheba\zhahist\Labs2.2\EncryptLabs2\Lab2.6\obj\Debug\PR2_6.pdb

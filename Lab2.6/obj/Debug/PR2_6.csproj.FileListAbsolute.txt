@@ -1,0 +1,16 @@
+F:\C# server data\PR2_6\PR2_6\bin\Debug\PR2_6.exe.config
+F:\C# server data\PR2_6\PR2_6\bin\Debug\PR2_6.exe
+F:\C# server data\PR2_6\PR2_6\bin\Debug\PR2_6.pdb
+F:\C# server data\PR2_6\PR2_6\obj\Debug\PR2_6.csprojResolveAssemblyReference.cache
+F:\C# server data\PR2_6\PR2_6\obj\Debug\PR2_6.csproj.CoreCompileInputs.cache
+F:\C# server data\PR2_6\PR2_6\obj\Debug\PR2_6.exe
+F:\C# server data\PR2_6\PR2_6\obj\Debug\PR2_6.pdb
+C:\Users\max27\Desktop\P2.6\PR2_6\PR2_6\bin\Debug\PR2_6.exe.config
+C:\Users\max27\Desktop\P2.6\PR2_6\PR2_6\bin\Debug\PR2_6.exe
+C:\Users\max27\Desktop\P2.6\PR2_6\PR2_6\bin\Debug\PR2_6.pdb
+C:\Users\max27\Desktop\P2.6\PR2_6\PR2_6\obj\Debug\PR2_6.csprojResolveAssemblyReference.cache
+C:\Users\max27\Desktop\P2.6\PR2_6\PR2_6\obj\Debug\PR2_6.Form1.resources
+C:\Users\max27\Desktop\P2.6\PR2_6\PR2_6\obj\Debug\PR2_6.csproj.GenerateResource.Cache
+C:\Users\max27\Desktop\P2.6\PR2_6\PR2_6\obj\Debug\PR2_6.csproj.CoreCompileInputs.cache
+C:\Users\max27\Desktop\P2.6\PR2_6\PR2_6\obj\Debug\PR2_6.exe
+C:\Users\max27\Desktop\P2.6\PR2_6\PR2_6\obj\Debug\PR2_6.pdb

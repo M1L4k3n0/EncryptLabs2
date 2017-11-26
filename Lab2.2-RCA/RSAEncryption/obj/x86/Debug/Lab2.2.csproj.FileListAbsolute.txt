@@ -1,8 +1,0 @@
-C:\Users\max27\Desktop\RSAEncryption\RSAEncryption\RSAEncryption\bin\Debug\RSAEncryption.exe
-C:\Users\max27\Desktop\RSAEncryption\RSAEncryption\RSAEncryption\bin\Debug\RSAEncryption.pdb
-C:\Users\max27\Desktop\RSAEncryption\RSAEncryption\RSAEncryption\obj\x86\Debug\RSAEncryption.Form1.resources
-C:\Users\max27\Desktop\RSAEncryption\RSAEncryption\RSAEncryption\obj\x86\Debug\RSAEncryption.Properties.Resources.resources
-C:\Users\max27\Desktop\RSAEncryption\RSAEncryption\RSAEncryption\obj\x86\Debug\Lab2.2.csproj.GenerateResource.Cache
-C:\Users\max27\Desktop\RSAEncryption\RSAEncryption\RSAEncryption\obj\x86\Debug\Lab2.2.csproj.CoreCompileInputs.cache
-C:\Users\max27\Desktop\RSAEncryption\RSAEncryption\RSAEncryption\obj\x86\Debug\RSAEncryption.exe
-C:\Users\max27\Desktop\RSAEncryption\RSAEncryption\RSAEncryption\obj\x86\Debug\RSAEncryption.pdb
