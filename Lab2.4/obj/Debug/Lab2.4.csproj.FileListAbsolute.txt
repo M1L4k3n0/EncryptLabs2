@@ -1,0 +1,9 @@
+R:\Ucheba\zhahist\Labs2.2\EncryptLabs2\Lab2.4\bin\Debug\Lab4.exe.config
+R:\Ucheba\zhahist\Labs2.2\EncryptLabs2\Lab2.4\bin\Debug\Lab4.exe
+R:\Ucheba\zhahist\Labs2.2\EncryptLabs2\Lab2.4\bin\Debug\Lab4.pdb
+R:\Ucheba\zhahist\Labs2.2\EncryptLabs2\Lab2.4\obj\Debug\Lab2.4.csprojResolveAssemblyReference.cache
+R:\Ucheba\zhahist\Labs2.2\EncryptLabs2\Lab2.4\obj\Debug\Lab4.Form1.resources
+R:\Ucheba\zhahist\Labs2.2\EncryptLabs2\Lab2.4\obj\Debug\Lab2.4.csproj.GenerateResource.Cache
+R:\Ucheba\zhahist\Labs2.2\EncryptLabs2\Lab2.4\obj\Debug\Lab2.4.csproj.CoreCompileInputs.cache
+R:\Ucheba\zhahist\Labs2.2\EncryptLabs2\Lab2.4\obj\Debug\Lab4.exe
+R:\Ucheba\zhahist\Labs2.2\EncryptLabs2\Lab2.4\obj\Debug\Lab4.pdb
